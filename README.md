@@ -54,3 +54,16 @@ Quiz Part 10
 
 Quiz Part 13
 ![q13kaya](https://github.com/user-attachments/assets/176a2e4d-978a-4f4d-8cac-368f8ecc1490)
+
+Boat Seat (Top)
+![proje-seat1](https://github.com/user-attachments/assets/b17c30ff-382d-41d3-a4e1-9afd42fa52e3)
+
+Boat Seat (Bottom)
+![proje-seat2](https://github.com/user-attachments/assets/cd718824-56b6-4e20-8c65-9caf1603b702)
+
+Boat (Inside)
+![proje-assembly_inside](https://github.com/user-attachments/assets/af02476e-1cef-4cf6-bf89-ef710a679100)
+
+Boat
+![assembly](https://github.com/user-attachments/assets/2bd65869-d879-42fc-bcb6-9f8bdc4c0926)
+
