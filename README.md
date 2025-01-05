@@ -1,9 +1,6 @@
 # mechanical-drawings
 Mechanical drawings from my undergraduate years
 
-Clamp
-![Clamp](https://github.com/user-attachments/assets/0a7102b1-5a54-4090-8860-af58a4c108b0)
-
 Homework Part 1
 ![h1kaya](https://github.com/user-attachments/assets/1bacaceb-e8f0-468e-97cd-a5bfd26499bd)
 
@@ -27,3 +24,9 @@ Homework Part 7
 
 Homework Part 8
 ![h8kaya](https://github.com/user-attachments/assets/d58c1c60-ac0c-47db-847e-dfd8c2e979ec)
+
+Press
+![h9kaya](https://github.com/user-attachments/assets/b9391ba2-ff54-4410-82cc-2a35785ea064)
+
+Clamp
+![Clamp](https://github.com/user-attachments/assets/0a7102b1-5a54-4090-8860-af58a4c108b0)
